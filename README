@@ -1,0 +1,3 @@
+Type of Array: This contains a list of chores.
+When Button is Clicked: The list of chores will be displayed.
+forEach Loop: It loops through the chores array, creates a div for each chore, and appends it to the container.
