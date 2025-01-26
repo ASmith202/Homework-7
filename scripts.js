@@ -8,7 +8,6 @@ const chores = [
   "Clean out Fridge", 
   "Wipe down stove and counter tops",
   "Straighten Living room",
-  "Dust Celing Fans",
   "Windex Glass Tables",
   "Vaccum all Carpet Areas",
   "Clean all bathrooms",
